@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sephdiza
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react, redux, express, mongodb
 
 <!---
 sephdiza/sephdiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
